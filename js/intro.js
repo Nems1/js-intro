@@ -13,6 +13,6 @@
                     My name is <span> ${name}</span>
                 </h1><br/>
                 <p>
-                    I am  <span>${height}"</span> tall from <span>${country}</span>
+                    I am  <span>${height} feets </span> tall from <span>${country}</span>
                 </p>
                 </main>`);
