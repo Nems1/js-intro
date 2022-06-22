@@ -24,3 +24,7 @@ View live page [here](https://nems1.github.io/js-intro/index.html) and Source Co
 ## Courtesy
 
 This project is courtesy to @thezuriteam and @ingressive4good.
+
+## License
+
+MIT License [details](https://github.com/Nems1/js-intro/blob/main/LICENSE)
